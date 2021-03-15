@@ -4,11 +4,12 @@
 
 Here are some facts that you should know about me:
 
-- - 🌱 I’m currently learning BackEnd at software development school Trybe, and now I am learning MySQL and Mongo to be more specific;
-- - 👯 I’m looking to collaborate on real projects from companies (not only in Brazil, I really want to know better how the software field are going all around the world);
-- - 📫 How to reach me: 
+- 🌱 I’m currently learning BackEnd at software development school Trybe, and now I am learning MySQL and Mongo to be more specific;
+- 🔭 I’m looking to collaborate on real projects from companies (not only in Brazil, I really want to know better how the software field are going all around the world);
+- 📫 How to reach me: 
 <a href = "https://www.linkedin.com/in/arthur-de-s%C3%A1-vasconcelos-2b60b8112/" target="_blank">
-<img align="center" alt="Arthurs-Linkedin-picture" height="30" weight="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_search%2Flinkedin-logo&psig=AOvVaw05RsLTxBxNU5UL954SCewF&ust=1615938287347000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjAvq-9s-8CFQAAAAAdAAAAABAD">
+<img align="center" alt="Arthurs-Linkedin-picture" height="30" weight="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 <!--
 **arthurdesa94/arthurdesa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
