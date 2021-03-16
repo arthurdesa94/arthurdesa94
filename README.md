@@ -20,13 +20,13 @@ Here are some facts that you should know about me:
 <p>
 
 ### Tools that I've been using:
-<img align="center" alt="html5-logo" height="30" weight="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%">
-<img align="center" alt="css-logo" height="30" weight="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%">
-<img align="center" alt="javascript-logo" height="30" weight="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%">
-<img align="center" alt="react-logo" height="30" weight="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width:100%">
-<img align="center" alt="redux-logo" height="30" weight="40" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="max-width:100%">
-<img align="center" alt="mysql-logo" height="30" weight="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%">
-<img align="center" alt="mongodb-logo" height="30" weight="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width:100%">
+<img align="center" alt="html5-logo" height="30" weight="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width:100%"></img>
+<img align="center" alt="css-logo" height="30" weight="40" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="max-width:100%"></img>
+<img align="center" alt="javascript-logo" height="30" weight="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width:100%"></img>
+<img align="center" alt="react-logo" height="30" weight="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width:100%"></img>
+<img align="center" alt="redux-logo" height="30" weight="40" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="max-width:100%"></img>
+<img align="center" alt="mysql-logo" height="30" weight="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%"></img>
+<img align="center" alt="mongodb-logo" height="30" weight="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width:100%"></img>
 <!--
 **arthurdesa94/arthurdesa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
