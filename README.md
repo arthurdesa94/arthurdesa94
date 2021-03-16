@@ -28,7 +28,8 @@ Here are some facts that you should know about me:
 <img align="center" alt="mysql-logo" height="30" weight="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%"></img>
 <img align="center" alt="mongodb-logo" height="30" weight="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width:100%"></img>
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdesa94)](https://github.com/arthurdesa94/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdesa94&layout=compact)](https://github.com/arthurdesa94/github-readme-stats)
 
 <!--
 **arthurdesa94/arthurdesa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
