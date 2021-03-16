@@ -27,6 +27,10 @@ Here are some facts that you should know about me:
 <img align="center" alt="redux-logo" height="30" weight="40" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="max-width:100%"></img>
 <img align="center" alt="mysql-logo" height="30" weight="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width:100%"></img>
 <img align="center" alt="mongodb-logo" height="30" weight="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width:100%"></img>
+<p>
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdesa94&show_icons=true&theme=radical)
+
+
 <!--
 **arthurdesa94/arthurdesa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
